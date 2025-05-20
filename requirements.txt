@@ -1,0 +1,7 @@
+# This file is used to install the required packages for the Flask application.
+
+Flask
+pandas
+numpy
+scikit-learn
+
